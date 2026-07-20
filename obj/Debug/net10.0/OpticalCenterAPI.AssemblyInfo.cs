@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("OpticalCenterAPI")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9c643844293b983664c4e24ab9f04b9455209716")]
 [assembly: System.Reflection.AssemblyProductAttribute("OpticalCenterAPI")]
 [assembly: System.Reflection.AssemblyTitleAttribute("OpticalCenterAPI")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
