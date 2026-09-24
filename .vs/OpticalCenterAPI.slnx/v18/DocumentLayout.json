@@ -1,12 +1,53 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "D:\\c#\\Optical Center\\Optical Center\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{68FB1C04-4507-CC02-353A-70B79BE97F43}|OpticalCenterAPI.csproj|d:\\c#\\optical center\\optical center\\controllers\\doctorscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68FB1C04-4507-CC02-353A-70B79BE97F43}|OpticalCenterAPI.csproj|solutionrelative:controllers\\doctorscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68FB1C04-4507-CC02-353A-70B79BE97F43}|OpticalCenterAPI.csproj|d:\\c#\\optical center\\optical center\\dtos\\updatepatientdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68FB1C04-4507-CC02-353A-70B79BE97F43}|OpticalCenterAPI.csproj|solutionrelative:dtos\\updatepatientdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DoctorsController.cs",
+              "DocumentMoniker": "D:\\c#\\Optical Center\\Optical Center\\Controllers\\DoctorsController.cs",
+              "RelativeDocumentMoniker": "Controllers\\DoctorsController.cs",
+              "ToolTip": "D:\\c#\\Optical Center\\Optical Center\\Controllers\\DoctorsController.cs",
+              "RelativeToolTip": "Controllers\\DoctorsController.cs",
+              "ViewState": "AgIAAH0AAAAAAAAAAAAAAJAAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-18T22:24:05.661Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UpdatePatientDto.cs",
+              "DocumentMoniker": "D:\\c#\\Optical Center\\Optical Center\\DTOs\\UpdatePatientDto.cs",
+              "RelativeDocumentMoniker": "DTOs\\UpdatePatientDto.cs",
+              "ToolTip": "D:\\c#\\Optical Center\\Optical Center\\DTOs\\UpdatePatientDto.cs",
+              "RelativeToolTip": "DTOs\\UpdatePatientDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-17T12:35:32.97Z"
+            }
+          ]
+        }
+      ]
     }
   ]
 }
